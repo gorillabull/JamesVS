@@ -1,0 +1,2 @@
+C:\Users\longe\source\repos\JamesServ1\JamesServ1\obj\Debug\JamesServ1.njsprojAssemblyReference.cache
+C:\Users\longe\source\repos\JamesServ1\JamesServ1\bin\Microsoft.NodejsTools.WebRole.dll
